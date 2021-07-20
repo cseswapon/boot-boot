@@ -1,0 +1,10 @@
+.slider-bg-color{
+    background-color: white;
+}
+.btn-primary-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border-radius: 8px;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+}
